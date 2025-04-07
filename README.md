@@ -1,1 +1,1 @@
-# CODSOFT
+# simple python programs
